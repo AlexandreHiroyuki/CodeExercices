@@ -24,4 +24,4 @@ Veja a lista de pessoas [Contribuidores](https://github.com/AlexandreHiroyuki/De
 
 ## Licença
 
-Este projeto é licenciado pela GNU General Public License v3.0 - veja [LICENSE.md](LICENSE.md) para detalhes.
+Este projeto é licenciado pela GNU General Public License v3.0 - veja [LICENSE.md](LICENSE) para detalhes.
