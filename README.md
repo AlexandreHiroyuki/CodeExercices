@@ -10,7 +10,7 @@ Os códigos aqui são livres para qualquer um testar e aprender! Caso tenha algu
 
 ## Para Contibuir
 
-Leia [CONTRIBUTING.md](https://gist.github.com/your/project) para detalhes de como submeter uma pull request para mim.
+Leia [CONTRIBUTING.md](https://github.com/AlexandreHiroyuki/DesafiosDeProgramacao) para detalhes de como submeter uma pull request para mim.
 
 ## Versionamento
 
@@ -18,9 +18,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Autores
 
-* **Alexandre Hiroyuki** - *Trabalho Inicial* - [AlexandreHiroyuki](https://github.com/PurpleBooth)
+* **Alexandre Hiroyuki** - *Trabalho Inicial* - [AlexandreHiroyuki](https://github.com/AlexandreHiroyuki)
 
-Veja a lista de pessoas [Contribuidores](https://github.com/your/project/contributors) que contribuíram para melhorar as soluções.
+Veja a lista de pessoas [Contribuidores](https://github.com/AlexandreHiroyuki/DesafiosDeProgramacao) que contribuíram para melhorar as soluções.
 
 ## Licença
 
