@@ -1,6 +1,6 @@
 # Desafios de Programação
 
-Este repositório contém alguns problemas e minhas soluções de programação.
+Este repositório contém alguns problemas e soluções para praticar programação.
 
 ## Buscando Sempre Melhorar
 
