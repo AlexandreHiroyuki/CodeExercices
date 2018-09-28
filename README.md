@@ -1,6 +1,6 @@
 # Desafios de Programação
 
-Este repositório contém minhas soluções para problemas de programação.
+Este repositório contém alguns problemas e minhas soluções de programação.
 
 ## Buscando Sempre Melhorar
 
@@ -8,13 +8,11 @@ Os códigos aqui são livres para qualquer um testar e aprender! Caso tenha algu
 
 ## Linguagens
 
+* C++
+
 ## Para Contibuir
 
 Leia [CONTRIBUTING.md](https://github.com/AlexandreHiroyuki/DesafiosDeProgramacao) para detalhes de como submeter uma pull request para mim.
-
-## Versionamento
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Autores
 
