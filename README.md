@@ -10,16 +10,8 @@ Os códigos aqui são livres para qualquer um testar e aprender! Caso tenha algu
 
 * C++
 
-## Para Contibuir
-
-Leia [CONTRIBUTING.md](https://github.com/AlexandreHiroyuki/DesafiosDeProgramacao) para detalhes de como submeter uma pull request para mim.
-
 ## Autores
 
 * **Alexandre Hiroyuki** - *Trabalho Inicial* - [AlexandreHiroyuki](https://github.com/AlexandreHiroyuki)
 
 Veja a lista de pessoas [Contribuidores](https://github.com/AlexandreHiroyuki/DesafiosDeProgramacao) que contribuíram para melhorar as soluções.
-
-## Licença
-
-Este projeto é licenciado pela GNU General Public License v3.0 - veja [LICENSE.md](LICENSE) para detalhes.
