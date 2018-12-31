@@ -4,14 +4,18 @@ Este repositório contém alguns problemas e soluções para praticar programaç
 
 ## Buscando Sempre Melhorar
 
-Os códigos aqui são livres para qualquer um testar e aprender! Caso tenha alguma ideia para melhorar as soluções não exite em enviá-las!
+Os códigos aqui são livres para qualquer um testar e aprender! Caso tenha alguma
+ideia para melhorar as soluções não exite em enviá-las!
 
 ## Linguagens
 
-* C++
+-   C++
 
 ## Autores
 
-* **Alexandre Hiroyuki** - *Trabalho Inicial* - [AlexandreHiroyuki](https://github.com/AlexandreHiroyuki)
+-   **Alexandre Hiroyuki** - _Trabalho Inicial_ -
+    [AlexandreHiroyuki](https://github.com/AlexandreHiroyuki)
 
-Veja a lista de pessoas [Contribuidores](https://github.com/AlexandreHiroyuki/DesafiosDeProgramacao) que contribuíram para melhorar as soluções.
+Veja a lista de pessoas
+[Contribuidores](https://github.com/AlexandreHiroyuki/DesafiosDeProgramacao) que
+contribuíram para melhorar as soluções.
