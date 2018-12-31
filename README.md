@@ -11,10 +11,9 @@ ideia para melhorar as soluções não exite em enviá-las!
 
 -   C++
 
-## Autores
+## Autor
 
--   **Alexandre Hiroyuki** - _Trabalho Inicial_ -
-    [AlexandreHiroyuki](https://github.com/AlexandreHiroyuki)
+-   [Alexandre Hiroyuki](https://github.com/AlexandreHiroyuki)
 
 Veja a lista de pessoas
 [Contribuidores](https://github.com/AlexandreHiroyuki/DesafiosDeProgramacao) que
