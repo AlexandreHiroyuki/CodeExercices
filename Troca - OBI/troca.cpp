@@ -1,7 +1,7 @@
 /*************************************/
-/* AutoClick - Automated Mouse Click */
+/* Troca - OBI 2018 PJ Problem       */
 /* Created by Alexandre Hiroyuki     */
-/* January 2, 2019                   */
+/* December 29, 2018                 */
 /*************************************/
 #include <iostream>
 #include <vector>
