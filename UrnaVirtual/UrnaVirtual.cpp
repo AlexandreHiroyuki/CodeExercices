@@ -1,3 +1,7 @@
+/*************************************/
+/* AutoClick - Automated Mouse Click */
+/* Created by Alexandre Hiroyuki     */
+/*************************************/
 #include<iostream>
 #include<fstream>
 #include<map>
