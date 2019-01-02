@@ -1,3 +1,8 @@
+/*************************************/
+/* AutoClick - Automated Mouse Click */
+/* Created by Alexandre Hiroyuki     */
+/* January 2, 2019                   */
+/*************************************/
 #include <iostream>
 #include <vector>
 #include <algorithm>
