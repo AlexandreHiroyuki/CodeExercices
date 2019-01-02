@@ -1,5 +1,5 @@
 /*************************************/
-/* AutoClick - Automated Mouse Click */
+/* Urna Virtual                      */
 /* Created by Alexandre Hiroyuki     */
 /*************************************/
 #include<iostream>
