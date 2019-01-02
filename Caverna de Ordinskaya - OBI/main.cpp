@@ -1,7 +1,7 @@
 /*************************************/
-/* AutoClick - Automated Mouse Click */
+/* Caverna de Ordinskaya - OBI 2016  */
 /* Created by Alexandre Hiroyuki     */
-/* January 2, 2019                   */
+/* December 28, 2018                 */
 /*************************************/
 #include <iostream>
 #include <vector>
