@@ -1,3 +1,8 @@
+/**************************************/
+/* Toca do Saci - OBI 2016 P2 Problem */
+/* Created by Alexandre Hiroyuki      */
+/* April 18, 2019                     */
+/**************************************/
 #include <iostream>
 #include <algorithm>
 using namespace std;
