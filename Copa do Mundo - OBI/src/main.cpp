@@ -1,3 +1,8 @@
+/***************************************/
+/* Copa do Mundo - OBI 2010 P1 Problem */
+/* Created by Alexandre Hiroyuki       */
+/* May 02, 2019                        */
+/***************************************/
 #include <iostream>
 #include <queue>
 using namespace std;
