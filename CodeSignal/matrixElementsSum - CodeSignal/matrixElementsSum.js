@@ -1,7 +1,7 @@
 /*************************************/
 /* matrixElementsSum - CodeSignal    */
 /* Created by Alexandre Hiroyuki     */
-/* October 12, 2019                 */
+/* October 12, 2019                  */
 /*************************************/
 
 function matrixElementsSum(matrix) {
