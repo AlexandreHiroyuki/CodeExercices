@@ -5,6 +5,7 @@ Este repositório contém alguns problemas e soluções para praticar programaç
 ## Linguagens
 
 - C++
+- JavaScript (ES6)
 
 ## Autor
 
