@@ -1,12 +1,12 @@
-# Desafios de Programação
+# Programming Challenges
 
-Este repositório contém alguns problemas e soluções para praticar programação.
+Solutions for programming exercices.
 
-## Linguagens
+## Languages
 
 - C++
 - JavaScript (ES6)
 
-## Autor
+## Author
 
 - Alexandre Hiroyuki - [AlexandreHiroyuki](https://github.com/AlexandreHiroyuki)
